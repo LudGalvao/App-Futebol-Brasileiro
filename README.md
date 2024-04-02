@@ -1,11 +1,11 @@
 # App-Futebol-Brasileiro
 
-# Instalar os modulo node
+## Instalar os modulo node
 ~~~~npm
 npm i
 ~~~~
 
-# Executar projeto
+## Executar projeto
 ~~~~npm
 npm run android
 ~~~~
