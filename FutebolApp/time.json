@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nome": "Flamengo",
+        "estadio": "Maracanã",
+        "info": "O Clube de Regatas do Flamengo (mais conhecido simplesmente como Flamengo, popularmente pelos apelidos de Fla, Mengo e Mengão, e cujo acrônimo é CRF) é uma agremiação poliesportiva brasileira com sede na cidade do Rio de Janeiro, capital do estado homônimo. Fundado no bairro do Flamengo[nota 1] para disputas do esporte remo em 17 de novembro de 1895,[2][11] tornou-se um dos clubes mais bem-sucedidos e populares do esporte brasileiro, especialmente pelo futebol."
+    },
+    {
+        "id": 2,
+        "nome": "Vasco",
+        "estadio": "São Januario",
+        "info": "O Club de Regatas Vasco da Gama, mais conhecido como Vasco da Gama ou simplesmente Vasco, cujo acrônimo é CRVG, é uma entidade sócio-poliesportiva brasileira com sede na cidade do Rio de Janeiro, fundada em 21 de agosto de 1898 por um grupo de remadores"
+        },
+    {
+        "id":3,
+        "nome": "Palmeiras",
+        "estadio": "Allianz Parque",
+        "info": "Sociedade Esportiva Palmeiras, conhecida popularmente como Palmeiras, é um clube poliesportivo brasileiro da cidade de São Paulo, capital do estado homônimo. Foi fundado em 26 de agosto de 1914 e suas cores, presentes no escudo e bandeira oficial, são o verde e branco"
+    },
+    {
+        "id":4,
+        "nome": "Corinthians",
+        "estadio": "Neo Química Arena",
+        "info": "O Sport Club Corinthians Paulista, comumente referido como Corinthians, ou ainda pelo seu acrônimo SCCP, é um clube poliesportivo brasileiro da cidade de São Paulo, capital do estado de São Paulo. Foi fundado como uma equipe de futebol no dia 1 de setembro de 1910 por um grupo de operários do bairro Bom Retiro"
+    },
+    {
+        "id":5,
+        "nome": "Cruzeiro",
+        "estadio": "Mineirão",
+        "info": "O Cruzeiro Esporte Clube, mais conhecido como Cruzeiro, é uma associação polidesportiva brasileira sediada em Belo Horizonte, Minas Gerais. É considerado um dos maiores clubes de futebol do Brasil e da América do Sul."
+    },
+    {
+        "id":6,
+        "nome": "Atletico Mineiro",
+        "estadio": "Arena MRV",
+        "info": "O Clube Atlético Mineiro, mais conhecido como Atlético Mineiro, Atlético ou pelo apelido Galo, e cujo acrônimo é CAM, é um clube de futebol profissional brasileiro sediado na cidade de Belo Horizonte, Minas Gerais"
+    }
+  ]
+  
